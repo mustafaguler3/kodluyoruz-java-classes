@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BoxMatch/BoxMatch.iml" filepath="$PROJECT_DIR$/BoxMatch/BoxMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalculateSalary/CalculateSalary.iml" filepath="$PROJECT_DIR$/CalculateSalary/CalculateSalary.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentInfoSystem/StudentInfoSystem.iml" filepath="$PROJECT_DIR$/StudentInfoSystem/StudentInfoSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/kodluyoruz-java-classes.iml" filepath="$PROJECT_DIR$/.idea/kodluyoruz-java-classes.iml" />
     </modules>
